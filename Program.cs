@@ -1,5 +1,4 @@
-using EmptyMVC.Repositories;
-using EmptyMVC.Repositories.implementaion;
+
 using Npgsql;
 
 var builder = WebApplication.CreateBuilder(args);
