@@ -1,0 +1,39 @@
+1.    jQuery Code Snippets
+https://marketplace.visualstudio.com/items/?itemName=donjayamanne.jquerysnippets
+
+2.    Kendo UI Productivity Tools
+https://marketplace.visualstudio.com/items/?itemName=KendoUI.kendotemplatewizard    
+
+3.    C# Dev Kit
+https://marketplace.visualstudio.com/items/?itemName=ms-dotnettools.csdevkit
+
+4.     Bootstrap 5 and jQuery CDN
+https://marketplace.visualstudio.com/items/?itemName=squaretron.jquery-bootstrap-cdn-snippets
+
+5.	Quokka.js
+https://marketplace.visualstudio.com/items/?itemName=WallabyJs.quokka-vscode
+
+6. 	.NET Extension Pack
+VS Marketplace Link: https://marketplace.visualstudio.com/items/?itemName=ms-dotnettools.vscode-dotnet-pack
+
+7. 	.NET Install Tool
+VS Marketplace Link: https://marketplace.visualstudio.com/items/?itemName=ms-dotnettools.vscode-dotnet-runtime
+
+8.	Bootstrap 5 Quick Snippets
+VS Marketplace Link: https://marketplace.visualstudio.com/items/?itemName=AnbuselvanRocky.bootstrap5-vscode
+
+9.	C#
+VS Marketplace Link: https://marketplace.visualstudio.com/items/?itemName=ms-dotnettools.csharp
+
+10.	C# Extensions
+VS Marketplace Link: https://marketplace.visualstudio.com/items/?itemName=kreativ-software.csharpextensions
+
+11.	HTML (C#)
+VS Marketplace Link: https://marketplace.visualstudio.com/items/?itemName=fireside21.cshtml
+
+12.	PostgreSQL
+VS Marketplace Link: https://marketplace.visualstudio.com/items/?itemName=cweijan.vscode-postgresql-client2
+
+13.	Prettier - Code formatter
+VS Marketplace Link: https://marketplace.visualstudio.com/items/?itemName=esbenp.prettier-vscode
+
